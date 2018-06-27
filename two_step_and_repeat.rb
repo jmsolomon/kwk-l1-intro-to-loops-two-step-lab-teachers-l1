@@ -1,6 +1,6 @@
 def first_steps
   n = 1
-  while(n==2)
+  while(n==1)
     puts "Right foot back"
     sleep(0.5)  
     puts "Left foot back"
